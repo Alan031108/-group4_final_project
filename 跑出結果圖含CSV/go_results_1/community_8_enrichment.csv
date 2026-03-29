@@ -1,0 +1,2 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+KEGG,KEGG:00790,Folate biosynthesis,0.004711689453036165,True,Folate biosynthesis,11,5,2,2161,0.4,0.18181818181818182,query_1,['KEGG:00000']

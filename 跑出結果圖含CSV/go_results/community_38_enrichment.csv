@@ -1,0 +1,2 @@
+source,native,name,p_value,significant,description,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,parents
+GO:CC,GO:0098588,bounding membrane of organelle,0.03436971822355618,True,"""The lipid bilayer that forms the outer-most layer of an organelle."" [GOC:dos]",676,8,5,6555,0.625,0.0073964497041420114,query_1,['GO:0031090']
